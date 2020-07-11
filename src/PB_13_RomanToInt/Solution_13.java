@@ -4,6 +4,7 @@ public class Solution_13 {
     public static void main(String[] args) {
         Solution_13 sol = new Solution_13();
         System.out.println(sol.romanToInt("MCMXCIV"));
+        System.out.println(sol.romanToInt("IV"));
     }
 
     public int romanToInt(String s) {
